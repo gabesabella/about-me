@@ -1,4 +1,4 @@
-<h1>Hi, I'm Gabe! <br/><a href="https://github.com/gabereal373">Web Developer</a>, <a href="">Software Engineer</a>, <a href="https://www.youtube.com/channel/UCBLcMzC6cHGMEb4qS7ZyuLQ">YouTuber</a></h1>
+<h1>Hi, I'm Gabe! <br/><a href="https://github.com/gabereal373">Web Developer</a> and <a href="">Software Engineer</a></h1>
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
