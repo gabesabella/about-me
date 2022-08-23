@@ -19,7 +19,7 @@
   - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm) -->
 
 <a href="https://www.youtube.com/watch?v=G90yLmKK4ro">📺 Popular YouTube Videos</a>
-<h2> 🤳 Connect with me:</h2>
+<h2> 🤳 Get in touch:</h2>
 
 [<img align="left" alt="Gabe Sabella | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="Gabe Sabella | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
