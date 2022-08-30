@@ -1,4 +1,4 @@
-<h1>Hi! I'm Gabe, <br/><a href="https://github.com/gabereal373">Security Engineer</a> and <a href="">Software Engineer</a></h1>
+<h1>Hi! I'm Gabe, <br/><a href="https://github.com/gabereal373"></a> and <a href="">Aspiring Security Engineer</a></h1>
 
 <h2>👨‍💻 Software Development Projects: </h2>
 
