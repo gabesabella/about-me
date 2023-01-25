@@ -1,8 +1,6 @@
 
-<p><strong>Gabe</strong> is a newly graduated <strong>aspirational front-end developer</strong> with a passion for learning and creating. Working towards becoming a <strong>full-stack developer</strong>, Gabe is proficient in a variety of languages including <em>React, Typescript, Tailwind CSS, Python, Java, SQL, Django and Flask.</em> 💻
+<p><strong>Gabe 🤓</strong>, an aspiring full stack developer with a focus on front-end development, recently graduated with a degree in Computer Science. I'm passionate about crafting beautiful and functional web applications, and have been experimenting with different web technologies such as <em>React, Typescript, and Tailwind CSS</em>. I'm also proficient in a variety of programming languages, including <em>Python, Java, SQL, Django, and Flask</em>. 
 
-With a keen eye for detail, Gabe loves to use his technical background to create, solve problems and improve user experiences. He is always on the lookout for new technologies, tools and techniques to help him build better, more efficient solutions. 🤓
+I'm a highly motivated self-starter and fast learner, always eager to take on new challenges and solve complex problems. I'm constantly trying to stay up to date with the latest web technologies and trends, and I'm never afraid to dive deep into unfamiliar territory. I'm looking for a role that will allow me to leverage my skills and experience to create meaningful and impactful products.
 
-In his free time, Gabe can often be found exploring the web development world, tinkering with new tools, or testing out different coding techniques. He is also an avid reader and enjoys learning about the psychology behind user interfaces and design. 📖
-
-Gabe is always looking for opportunities to challenge himself, to grow and to learn new things. He is eager to join a team and to use his skills to create something amazing. 🤗</p>
+I'm excited to work in a collaborative and innovative environment, and I'm confident that my skills and experience will be a great asset to any team. If you're looking for someone who is committed to creating exceptional web applications and can bring fresh ideas to the table, then please reach out to me! 🤗</p>
