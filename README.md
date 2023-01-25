@@ -1,29 +1,8 @@
-<h1>Hi! I'm Gabe, <br/><a href="https://github.com/gabereal373">Web Developer</a> and Aspiring Security Engineer</a>
 
-<h2>👨‍💻 Software Development Projects: </h2>
+<p><strong>Gabe</strong> is a newly graduated <strong>aspirational front-end developer</strong> with a passion for learning and creating. Working towards becoming a <strong>full-stack developer</strong>, Gabe is proficient in a variety of languages including <em>React, Typescript, Tailwind CSS, Python, Java, SQL, Django and Flask.</em> 💻
 
-<a href="https://www.youtube.com/watch?v=G90yLmKK4ro">📺 Popular YouTube Videos</a>
-<h2> 🤳 Connect With Me:</h2>
+With a keen eye for detail, Gabe loves to use his technical background to create, solve problems and improve user experiences. He is always on the lookout for new technologies, tools and techniques to help him build better, more efficient solutions. 🤓
 
-<img align="left" alt="Gabe Sabella | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
-<img align="left" alt="Gabe Sabella | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-<img align="left" alt="Gabe Sabella | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-<img align="left" alt="Gabe Sabella | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-<!-- 
-[twitter]: https://twitter.com/joshmadakor
-[youtube]: https://www.youtube.com/c/joshmadakor
-[instagram]: https://www.instagram.com/joshmadakor/
-[linkedin]: https://linkedin.com/in/joshmadakor
- -->
-<!--
+In his free time, Gabe can often be found exploring the web development world, tinkering with new tools, or testing out different coding techniques. He is also an avid reader and enjoys learning about the psychology behind user interfaces and design. 📖
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on JavaFX MySQL Appointment Scheduling Software  
-- 🌱 I’m currently learning Java, JavaFX, Javascript, React 
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- ⚡ Fun fact: ...
--->
+Gabe is always looking for opportunities to challenge himself, to grow and to learn new things. He is eager to join a team and to use his skills to create something amazing. 🤗</p>
