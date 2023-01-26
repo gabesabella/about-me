@@ -1,7 +1,7 @@
 <h1>Hi, I'm Gabe! <br/><a href="https://github.com/gabesabella">Programmer</a>, <a href="https://www.linkedin.com/in/gabesabella/">Web Developer</a>, <a href="#">YouTuber</a></h1>
 <h2>👨‍💻 Software Development Projects:</h2>
 <ul>
-  <li><h4>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</h3></l1>
+  <li><h3>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</h3></l1>
   <li>Full Stack Todo App
 <b>Python</b></l1>
   <li><b>JavaScript</b>
