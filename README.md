@@ -9,13 +9,13 @@
 <h2>🤳 Connect with me:</h2>
 <a href="https://github.com/gabesabella">
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" alt="GitHub" width="32px">
-  Github
+ -
 </a>
 <a href="https://www.youtube.com/channel/UCQjK7jbv5hUfJ6UJx6W0xGg">
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" alt="YouTube" width="32px">
-  Youtube
+  -
 </a>
 <a href="https://linkedin.com/in/gabesabella">
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="LinkedIn" width="32px">
-  LinkedIn
+  - 
 </a>
