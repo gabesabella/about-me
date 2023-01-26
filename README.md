@@ -1,4 +1,4 @@
-<h1>Hi, I'm Gabe! <br/><a href="https://github.com/gabesabella">Full-Stack Developer</a>
+<h1>Hi, I'm Gabe! <br/><br/><a href="https://github.com/gabesabella">Aspiring Full-Stack Developer</a>
 <h2>👨‍💻 Software Development Projects:</h2>
 
  <h3> <a href="https://github.com/gabesabella/Scheduling_Solutions">Global Appointment Manager (Java, JavaFX, MySQL)</a></h3>
