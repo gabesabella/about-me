@@ -1,6 +1,16 @@
 
-<p><strong>Gabe 🤓</strong>, an aspiring full stack developer with a focus on front-end development, recently graduated with a degree in Computer Science. I'm passionate about crafting beautiful and functional web applications, and have been experimenting with different web technologies such as <em>React, Typescript, and Tailwind CSS</em>. I'm also proficient in <em>Python, Java, SQL, Django, and Flask</em>. 
+<h1>About Me</h1>
+<h2>Recent Computer Science Graduate</h2>
+<p>I am a recent computer science graduate who is passionate about building modern and user-friendly web applications. I am currently focused on building out my portfolio and gaining real-world experience.</p>
+<h2>Skills</h2>
+<ul>
+  <li>React</li>
+  <li>TypeScript</li>
+  <li>Tailwind CSS</li>
+  <li>SQL</li>
+</ul>
+<h2>Experience</h2>
+<p>I have experience building out web applications using the above technologies and I am currently building out several applications using them!</p>
 
-I'm a highly motivated self-starter and fast learner, always eager to take on new challenges and solve complex problems. I'm constantly trying to stay up to date with the latest web technologies and trends, and I'm never afraid to dive deep into unfamiliar territory. I'm looking for a role that will allow me to leverage my skills and experience to create meaningful and impactful products.
-
-I'm excited to work in a collaborative and innovative environment, and I'm confident that my skills and experience will be a great asset to any team. If you're looking for someone who is committed to creating exceptional web applications and can bring fresh ideas to the table, then please reach out to me! 🤗</p>
+<h2>Contact</h2>
+<p>Feel free to reach out to me if you have any questions or if you would like to collaborate on a project. <a href="mailto:gabe.sabella.dev@example.com">gabe.sabella.dev@example.com</a></p>
