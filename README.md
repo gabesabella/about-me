@@ -3,7 +3,7 @@
 
  <h3> <a href="https://github.com/gabesabella/Scheduling_Solutions">Global Appointment Manager (Java, JavaFX, MySQL)</a></h3>
  <h3> <a href="https://github.com/gabesabella/C950">Postal Service Delivery Simulation (Python)</a></h3>
- <h3> <a href="https://github.com/gabesabella/Scheduling_Solutions">Global Appointment Manager (Java, JavaFX, MySQL)</a></h3>
+ <h3> <a href="https://github.com/gabesabella/Comp_Sci_Capstone">Mushroom Classifier Web App Using Machine Learning (Python, Flask, Jupyter)</a></h3>
  <h3> <a href="https://github.com/gabesabella/Scheduling_Solutions">Global Appointment Manager (Java, JavaFX, MySQL)</a></h3>
 <ul>
   <li>Full Stack Todo App
