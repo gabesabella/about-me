@@ -3,8 +3,8 @@
 
  <h3> <a href="https://github.com/gabesabella/Scheduling_Solutions">Global Appointment Manager (Java, JavaFX, MySQL)</a></h3>
  <h3> <a href="https://github.com/gabesabella/C950">Postal Service Delivery Simulation (Python)</a></h3>
- <h3> <a href="https://github.com/gabesabella/Comp_Sci_Capstone">Mushroom Classifier Web App Using Machine Learning (Python, Flask, Jupyter)</a></h3>
- <h3> <a href="https://github.com/gabesabella/Scheduling_Solutions">Global Appointment Manager (Java, JavaFX, MySQL)</a></h3>
+ <h3> <a href="https://github.com/gabesabella/Comp_Sci_Capstone">AI Powered Mushroom Classifier Web App(Python, Flask, Jupyter)</a></h3>
+ <h3> <a href="[https://github.com/gabesabella/Scheduling_Solutions](https://hayleysabella.live/)">Musician's Personal Website(React, Tailwind CSS)</a></h3>
 <ul>
   <li>Full Stack Todo App
 <b>Python</b></l1>
