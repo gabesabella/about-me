@@ -7,8 +7,10 @@
  <h3> <a href="https://hayleysabella.live/">Musician's Personal Website (React, Tailwind CSS)</a></h3>
 
 <h2>🤳 Connect with me:</h2>
- <a href="https://www.linkedin.com/in/gabriel-sabella-188311260/">
-  <img align="left" alt="GabeSabella | GitHub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
- </a>
-
-<img align="left" alt="GabeSabella | LinkedIn" width="22px" background-color="red" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+<ul>
+  <li>
+    <a href="https://github.com/gabesabella">
+      <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" alt="GitHub" width="32px">
+    </a>
+  </li>
+ </ul>
