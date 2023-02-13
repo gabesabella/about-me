@@ -1,4 +1,4 @@
-<h1>Hi, I'm Gabe!></h1>
+<h1>Hi, I'm Gabe!</h1>
 <h2>Recent computer science grad and <a href="https://github.com/gabesabella">Full-Stack Developer</a>
 <h2>👨‍💻 Software Development Projects:</h2>
 
