@@ -1,4 +1,4 @@
-<h1>Hi, I'm Gabe!</h1>
+<h1>Hello, Reed Smells.!</h1>
 <h2>A Recent computer science grad and frontend developer.</a>
 <h2>👨‍💻 Recent Projects:</h2>
 
