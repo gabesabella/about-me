@@ -1,5 +1,5 @@
-<h1>Hello, Reed Smells.</h1>
-<h2>A Recent computer science grad and frontend developer.</a>
+<h1>Hello, I'm Gabe.</h1>
+<h2>Currently a software analyst for CDS.</a>
 <h2>👨‍💻 Recent Projects:</h2>
 
  <h3> <a href="https://github.com/gabesabella/Scheduling_Solutions">Global Appointment Manager (Java, JavaFX, MySQL)</a></h3>
